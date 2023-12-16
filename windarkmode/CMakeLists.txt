@@ -1,6 +1,3 @@
-
-
-
 add_library(windarkmode STATIC)
 target_link_libraries(windarkmode uxtheme-stub)
 
